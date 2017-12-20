@@ -3,6 +3,7 @@ version = "scm-1"
 
 source = {
    url = "git://github.com/soumith/cudnn.torch.git",
+   branch = "R7",
 }
 
 description = {
